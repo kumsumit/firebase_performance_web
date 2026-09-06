@@ -3,8 +3,7 @@
 // found in the LICENSE file.
 
 import 'package:firebase_core/firebase_core.dart';
-import 'package:flutterfire_internals/flutterfire_internals.dart'
-    as internals;
+import 'package:flutterfire_internals/flutterfire_internals.dart' as internals;
 
 /// Will return a [FirebaseException] from a thrown web error.
 /// Any other errors will be propagated as normal.
